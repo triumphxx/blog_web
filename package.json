@@ -1,0 +1,16 @@
+{
+  "name": "blog_web",
+  "version": "1.0.0",
+  "description": "我的博客网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "北漂码农有话说",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
